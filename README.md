@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Arduino and microcontrollers integration with games and apps(Python, java, and Unity)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-  You can find me on my <a href="kshitijaucharmal.github.io">website</a>
+  You can find me on my <a href="https://kshitijaucharmal.github.io">website</a>
 
 <!---
 kshitijaucharmal/kshitijaucharmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
