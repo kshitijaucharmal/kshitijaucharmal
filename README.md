@@ -6,6 +6,9 @@ allows the user to access Bard thought the terminal
 - 📫 How to reach me :
   You can find me on my [website](https://kshitijaucharmal.github.io)
 
+# Holopins
+[![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitijaucharmal)](https://holopin.io/@kshitijaucharmal)
+
 # Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitijaucharmal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
