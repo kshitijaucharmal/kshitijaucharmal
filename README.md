@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kshitijaucharmal
 - 👀 I’m interested in AI Programming and learning new stuff
-- 🌱 I’m currently working on my new project [Bard-Shell](https://github.com/kshitijaucharmal/Bard-Shell) which
+- 🌱 I’m currently working on my new project [gemini-Shell](https://github.com/kshitijaucharmal/geminishell) which
 allows the user to access Bard thought the terminal
-- 💞️ I’m looking to collaborate on [Bard-Shell](https://github.com/kshitijaucharmal/Bard-Shell), which is my latest project
 - 📫 How to reach me :
   You can find me on my [website](https://kshitijaucharmal.github.io)
 
