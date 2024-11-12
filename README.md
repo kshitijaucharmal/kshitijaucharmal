@@ -23,3 +23,6 @@ You can click the Preview link to take a look at your changes.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshitijaucharmal/kshitijaucharmal/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kshitijaucharmal/kshitijaucharmal/output/github-contribution-grid-snake.svg">
 </picture>
+
+<script data-goatcounter="https://kshitijaucharmal.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
