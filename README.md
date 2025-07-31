@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @kshitijaucharmal
-- 👀 I’m interested in AI Programming and learning new stuff
-- 🌱 I’m currently working on my new project [gemini-Shell](https://github.com/kshitijaucharmal/geminishell) which
-allows the user to access Bard thought the terminal
-- 📫 How to reach me :
-  You can find me on my [website](https://kshitijaucharmal.github.io)
+- 👀 I’m interested in Agentic AI, Reinforcement learning, and Game Development
+- 🌱 I’m currently working on my new project [Concept-Forge](https://github.com/kshitijaucharmal/ConceptForge) which is a game engine using the power of LLMs to do complex things
+- 📫 How to reach me : You can find me on my [Linktree](https://linktr.ee/kshitijaucharmal)
 
 # Holopins
 [![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kshitijaucharmal)](https://holopin.io/@kshitijaucharmal)
