@@ -10,7 +10,7 @@
   <tr> <td>
       <h3>Most Used Languages</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijaucharmal&layout=donut-vertical&theme=holi" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijaucharmal&layout=donut-vertical&theme=holi&hide=javascript,css,html" />
       </a>
     </td>
     <td>
